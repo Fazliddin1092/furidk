@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 it is the sencond step
  next try 
+=======
+experiment try
+>>>>>>> experiment

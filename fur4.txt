@@ -1,2 +1,6 @@
 fur 2 step
+<<<<<<< HEAD
  next try 
+=======
+experiment try
+>>>>>>> experiment
